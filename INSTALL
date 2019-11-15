@@ -1,0 +1,49 @@
+INSTALL
+Created Thu 14 Nov 2019 03:31:52 PM AKST
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Installing GitHub Desktop
+=========================
+1. Visit the GitHub Desktop download page.
+   https://desktop.github.com/
+
+2. Choose Download for Windows.
+
+   Downloaded:
+     GitHubDesktopSetup.exe    (87.3 MB)
+
+3. In your computer's Downloads folder, double-click GitHub Desktop.
+   Ran as myself (admin failed):
+
+     GitHub Desktop
+     GitHub Desktop is being installed
+     It'll launch once it is done
+
+4. In the pop-up window, click Install.
+
+5. After the program has been installed, click Run.
+
+Popped up:
+  Welcome to GitHub Desktop
+
+  New to GitHub? Create your free account
+
+  Sign in to GitHub.com                 <===
+  Sign in to GitHub Enterprise Server
+
+  Skip this step
+
+6. Able to easily checkout resume/ and jobs/ repos.
+
+
+Setting up GitHub Desktop
+=========================
+After you've launched GitHub Desktop, you can choose to set up
+GitHub Desktop right away, or you can skip the setup process.
+
+
+Links
+=====
+Installing GitHub Desktop
+https://help.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop
